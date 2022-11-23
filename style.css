@@ -37,6 +37,8 @@ body{
     height: 1010px;
     background-color: yellow;
     margin: 5px;
+    margin-bottom: 10px;
+    padding-top: 10px;
 }
 #header-holder{
     display: flex;
@@ -82,4 +84,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: orange;
+}
+input{
+    color:gray
 }
